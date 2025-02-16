@@ -1,0 +1,21 @@
+book_id,title,author_id,genre,published_year
+1,Book 1,8,Science Fiction,2008
+2,Book 2,6,Science Fiction,2017
+3,Book 3,8,Non-Fiction,2002
+4,Book 4,5,Fantasy,2014
+5,Book 5,8,Science Fiction,2017
+6,Book 6,2,Science Fiction,1991
+7,Book 7,10,Science Fiction,2011
+8,Book 8,1,Fantasy,1994
+9,Book 9,6,Science Fiction,1997
+10,Book 10,5,Fiction,1991
+11,Book 11,6,Science Fiction,1991
+12,Book 12,7,Fantasy,2015
+13,Book 13,9,Fantasy,1997
+14,Book 14,8,Non-Fiction,2004
+15,Book 15,5,Non-Fiction,2003
+16,Book 16,7,Fiction,2019
+17,Book 17,2,Fiction,1991
+18,Book 18,5,Fantasy,2000
+19,Book 19,4,Fiction,2019
+20,Book 20,9,Fantasy,2009
